@@ -5,9 +5,8 @@ import { GeistMono } from "geist/font/mono"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Friendship Request - Bashy & Hurroku",
-  description: "A special friendship request from Bashy to Hurroku",
-  generator: "v0.dev",
+  title: "Friendship Request - Bashy & Luna",
+  description: "A special friendship request from Bashy to Luna",
 }
 
 export default function RootLayout({
