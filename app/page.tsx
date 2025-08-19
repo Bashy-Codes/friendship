@@ -272,7 +272,7 @@ export default function FriendshipRequest() {
 
                     <div className="p-4 sm:p-5 lg:p-6 bg-red-950/20 backdrop-blur-xl rounded-xl lg:rounded-2xl border border-red-500/30 shadow-[0_8px_32px_0_rgba(220,38,38,0.5)]">
                       <p className="text-red-300 italic text-base sm:text-lg lg:text-xl font-light animate-pulse">
-                        The ghosts whisper... "Choose wisely next time..." 🌙
+                        The ghosts whisper... "Lets change the decision..." 🌙
                       </p>
                     </div>
                   </div>
@@ -290,7 +290,7 @@ export default function FriendshipRequest() {
                     </div>
 
                     <h1 className="text-3xl sm:text-4xl lg:text-6xl font-bold bg-gradient-to-r from-purple-300 via-pink-300 to-blue-300 bg-clip-text text-transparent drop-shadow-2xl">
-                      Hey Hurroku!
+                      Hiiii Luna!
                     </h1>
                     <div className="p-4 sm:p-5 lg:p-6 bg-white/5 backdrop-blur-xl rounded-xl lg:rounded-2xl border border-white/20 shadow-[0_8px_32px_0_rgba(31,38,135,0.37)]">
                       <p className="text-base sm:text-lg lg:text-xl text-gray-200 max-w-xs sm:max-w-md lg:max-w-lg mx-auto leading-relaxed font-light">
@@ -306,7 +306,7 @@ export default function FriendshipRequest() {
                       className="bg-gradient-to-r from-emerald-500/80 to-green-500/80 backdrop-blur-xl hover:from-emerald-400/90 hover:to-green-400/90 text-white font-semibold px-6 sm:px-8 lg:px-12 py-3 sm:py-4 lg:py-6 text-sm sm:text-base lg:text-lg shadow-[0_8px_32px_0_rgba(16,185,129,0.37)] hover:shadow-[0_12px_40px_0_rgba(16,185,129,0.5)] transform hover:scale-105 transition-all duration-300 border border-white/20 rounded-xl lg:rounded-2xl w-full sm:w-auto"
                     >
                       <Heart className="mr-2 lg:mr-3" size={18} />
-                      Yes, absolutely!
+                      Yes, I'd love to!
                     </Button>
 
                     <Button
@@ -358,14 +358,13 @@ export default function FriendshipRequest() {
                     </h1>
                     <div className="p-4 sm:p-6 lg:p-8 bg-white/5 backdrop-blur-xl rounded-xl lg:rounded-2xl border border-white/20 shadow-[0_8px_32px_0_rgba(31,38,135,0.37)]">
                       <p className="text-lg sm:text-xl lg:text-2xl text-gray-100 max-w-md sm:max-w-lg lg:max-w-2xl mx-auto leading-relaxed font-light">
-                        Hurroku, you just made Bashy the happiest person in the universe!
+                        Luna, you just made Bashy the happiest person!
                       </p>
                     </div>
 
                     <div className="flex items-center justify-center gap-2 sm:gap-3 lg:gap-4 p-3 lg:p-4 bg-gradient-to-r from-emerald-500/10 to-green-500/10 backdrop-blur-xl rounded-lg lg:rounded-xl border border-emerald-500/30 shadow-[0_8px_32px_0_rgba(16,185,129,0.37)]">
                       <Music size={20} className="sm:size-6 animate-pulse text-emerald-300" />
                       <span className="text-sm sm:text-base lg:text-lg text-emerald-200 font-medium">
-                        Celebration music is playing!
                       </span>
                     </div>
                   </div>
@@ -384,7 +383,7 @@ export default function FriendshipRequest() {
 
                   <div className="p-4 sm:p-5 lg:p-6 bg-white/5 backdrop-blur-xl rounded-xl lg:rounded-2xl border border-white/20 shadow-[0_8px_32px_0_rgba(31,38,135,0.37)]">
                     <p className="text-gray-300 italic text-base sm:text-lg lg:text-xl font-light">
-                      Best friends forever and always! 👫
+                      Yaaayyyy we are friendsss! 👫
                     </p>
                   </div>
                 </div>
